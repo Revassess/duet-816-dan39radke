@@ -1,3 +1,1 @@
-select *
-from user_role, app_user
-where user_role.role_id = app_user.roleid;
+select * from app_user full outer join user_role on app_user.role_id = user_role.role_id where user_role.name = 'BASIC_USER';
