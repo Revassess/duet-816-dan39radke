@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="822b473e-b12a-4178-ab1c-7fc8b8d9284d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Revassess/src/sql/answer3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Revassess/src/sql/answer3.sql" afterDir="false" />
-    </list>
+    <list default="true" id="822b473e-b12a-4178-ab1c-7fc8b8d9284d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +117,7 @@
       <updated>1597084189468</updated>
       <workItem from="1597084200341" duration="1117000" />
       <workItem from="1597085846971" duration="734000" />
-      <workItem from="1597086644396" duration="1822000" />
+      <workItem from="1597086644396" duration="2156000" />
     </task>
     <servers />
   </component>
